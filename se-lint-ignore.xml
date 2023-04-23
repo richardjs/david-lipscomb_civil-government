@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-2.xhtml">
+		<ignore>
+				<code>t-042</code>
+				<reason>The source for the Renan blockquote is unclear, so leave the consecutive quotes.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
