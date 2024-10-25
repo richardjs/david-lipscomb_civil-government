@@ -12,16 +12,4 @@
 			<reason>The transcription is from archive.org, so the linter is mistaking it for page scans</reason>
 		</ignore>
 	</file>
-	<file path="chapter-2.xhtml">
-		<ignore>
-			<code>y-022</code>
-			<reason>The source for the Renan blockquote is unclear, so leave the consecutive quotes.</reason>
-		</ignore>
-	</file>
-	<file path="chapter-4.xhtml">
-		<ignore>
-			<code>y-022</code>
-			<reason>The source for the Dryzinger blockquotes is unclear, so leave the consecutive quotes.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
